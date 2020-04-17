@@ -1,4 +1,4 @@
-package cn.codesheep.sba_server_2_0;
+package cn.carlos.testidspringbootstarter;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SbaServer20ApplicationTests {
+public class TestIdSpringBootStarterApplicationTests {
 
     @Test
     public void contextLoads() {
