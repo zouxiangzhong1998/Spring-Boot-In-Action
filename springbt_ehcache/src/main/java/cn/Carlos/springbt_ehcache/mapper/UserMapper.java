@@ -1,6 +1,6 @@
 package cn.carlos.springbt_ehcache.mapper;
 
-import cn.codesheep.springbt_ehcache.entity.User;
+import cn.carlos.springbt_ehcache.entity.User;
 
 import java.util.List;
 

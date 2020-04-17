@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
 
 @SpringBootApplication
-@MapperScan("cn.codesheep.springbt_guava_cache")
+@MapperScan("cn.carlos.springbt_guava_cache")
 @EnableCaching
 public class SpringbtGuavaCacheApplication {
 

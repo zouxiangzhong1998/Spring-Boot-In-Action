@@ -1,7 +1,7 @@
 package cn.carlos.springbt_ehcache.controller;
 
-import cn.codesheep.springbt_ehcache.entity.User;
-import cn.codesheep.springbt_ehcache.service.UserService;
+import cn.carlos.springbt_ehcache.entity.User;
+import cn.carlos.springbt_ehcache.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import org.springframework.cache.CacheManager;

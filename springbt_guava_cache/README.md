@@ -112,7 +112,7 @@ spring.datasource.password=xxxxxx
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 
 # mybatis配置
-mybatis.type-aliases-package=cn.codesheep.springbt_guava_cache.entity
+mybatis.type-aliases-package=cn.carlos.springbt_guava_cache.entity
 mybatis.mapper-locations=classpath:mapper/*.xml
 mybatis.configuration.map-underscore-to-camel-case=true
 ```
@@ -232,7 +232,7 @@ public class UserController {
 
 ```
 @SpringBootApplication
-@MapperScan("cn.codesheep.springbt_guava_cache")
+@MapperScan("cn.carlos.springbt_guava_cache")
 @EnableCaching
 public class SpringbtGuavaCacheApplication {
     public static void main(String[] args) {

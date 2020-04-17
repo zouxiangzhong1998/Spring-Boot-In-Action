@@ -119,7 +119,7 @@ spring.datasource.password=xxxxxx
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 
 # mybatis 配置
-mybatis.type-aliases-package=cn.codesheep.springbt_ehcache.entity
+mybatis.type-aliases-package=cn.carlos.springbt_ehcache.entity
 mybatis.mapper-locations=classpath:mapper/*.xml
 mybatis.configuration.map-underscore-to-camel-case=true
 
@@ -258,7 +258,7 @@ public class UserController {
 
 ```
 @SpringBootApplication
-@MapperScan("cn.codesheep.springbt_ehcache")
+@MapperScan("cn.carlos.springbt_ehcache")
 @EnableCaching
 public class SpringbtEhcacheApplication {
 

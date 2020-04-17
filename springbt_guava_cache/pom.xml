@@ -8,7 +8,7 @@
         <version>1.5.9.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>cn.codesheep</groupId>
+    <groupId>cn.carlos</groupId>
     <artifactId>springbt_guava_cache</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springbt_guava_cache</name>

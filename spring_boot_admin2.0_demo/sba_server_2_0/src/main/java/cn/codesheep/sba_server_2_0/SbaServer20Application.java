@@ -1,4 +1,4 @@
-package cn.codesheep.sba_server_2_0;
+package cn.carlos.sba_server_2_0;
 
 import de.codecentric.boot.admin.server.config.AdminServerAutoConfiguration;
 import de.codecentric.boot.admin.server.config.AdminServerProperties;

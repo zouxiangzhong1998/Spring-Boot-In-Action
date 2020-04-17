@@ -9,6 +9,12 @@
 
 - [Elasticsearch搜索引擎在Spring Boot中的实践](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springboot_es_demo)
 
+- [Spring Boot应用缓存实践之：Ehcache加持](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_ehcache)
+
+- [EVCache缓存在 Spring Boot中的实战](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_evcache)
+
+- [Guava Cache本地缓存在 Spring Boot应用中的实践](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_guava_cache)
+
 ---
 
 # 应用监控相关

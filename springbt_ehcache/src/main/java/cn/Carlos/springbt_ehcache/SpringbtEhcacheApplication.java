@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
 
 @SpringBootApplication
-@MapperScan("cn.codesheep.springbt_ehcache")
+@MapperScan("cn.carlos.springbt_ehcache")
 @EnableCaching
 public class SpringbtEhcacheApplication {
 

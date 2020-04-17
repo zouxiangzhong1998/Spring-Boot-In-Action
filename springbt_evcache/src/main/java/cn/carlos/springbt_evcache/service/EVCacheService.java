@@ -1,6 +1,6 @@
 package cn.carlos.springbt_evcache.service;
 
-import cn.codesheep.springbt_evcache.config.EVCacheClientSample;
+import cn.carlos.springbt_evcache.config.EVCacheClientSample;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

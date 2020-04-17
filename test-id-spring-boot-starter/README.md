@@ -33,7 +33,7 @@ PRIMARY KEY(ID)
 
 ```
 <dependency>
-	<groupId>cn.codesheep</groupId>
+	<groupId>cn.carlos</groupId>
 	<artifactId>id-spring-boot-starter</artifactId>
 	<version>1.0.0</version>
 </dependency>

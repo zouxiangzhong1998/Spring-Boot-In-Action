@@ -1,7 +1,7 @@
 package cn.carlos.springbt_ehcache.service;
 
-import cn.codesheep.springbt_ehcache.entity.User;
-import cn.codesheep.springbt_ehcache.mapper.UserMapper;
+import cn.carlos.springbt_ehcache.entity.User;
+import cn.carlos.springbt_ehcache.mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;

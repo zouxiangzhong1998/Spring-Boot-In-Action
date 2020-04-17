@@ -1,4 +1,4 @@
-package cn.codesheep.testidspringbootstarter.controller;
+package cn.carlos.testidspringbootstarter.controller;
 
 
 import com.baidu.fsg.uid.service.UidGenService;
