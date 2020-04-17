@@ -150,7 +150,7 @@ management.endpoints.web.exposure.include=*
 
 - **Threads**
 
-![Threads](https://raw.githubusercontent.com/zouxiangzhong1998/assets/master/Spring-Boot-In-Action/spring_boot_admin2.0/Threads)
+![Threads](https://raw.githubusercontent.com/zouxiangzhong1998/assets/master/Spring-Boot-In-Action/spring_boot_admin2.0/Threads.jpg)
 
 - **Http Traces**
 
