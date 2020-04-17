@@ -1,4 +1,4 @@
-package cn.codesheep.springbt_evcache.config;
+package cn.carlos.springbt_evcache.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

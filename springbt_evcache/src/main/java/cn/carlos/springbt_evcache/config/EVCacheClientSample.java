@@ -1,4 +1,4 @@
-package cn.codesheep.springbt_evcache.config;
+package cn.carlos.springbt_evcache.config;
 
 import com.netflix.evcache.EVCache;
 import com.netflix.evcache.EVCacheException;

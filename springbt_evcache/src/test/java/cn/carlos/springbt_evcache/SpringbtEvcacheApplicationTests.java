@@ -1,4 +1,4 @@
-package cn.codesheep.springbt_evcache;
+package cn.carlos.springbt_evcache;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
