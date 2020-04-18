@@ -1,6 +1,6 @@
 package com.carlos.springboot_es_demo.service;
 
-import com.hansonwang99.springboot_es_demo.entity.Entity;
+import com.carlos.springboot_es_demo.entity.Entity;
 
 import java.util.List;
 

@@ -3,8 +3,8 @@ package com.carlos.springboot_es_demo.service.impl;
 import java.io.IOException;
 import java.util.List;
 
-import com.hansonwang99.springboot_es_demo.entity.Entity;
-import com.hansonwang99.springboot_es_demo.service.TestService;
+import com.carlos.springboot_es_demo.entity.Entity;
+import com.carlos.springboot_es_demo.service.TestService;
 import org.elasticsearch.index.query.QueryBuilders;
 import org.elasticsearch.search.builder.SearchSourceBuilder;
 import org.slf4j.Logger;
