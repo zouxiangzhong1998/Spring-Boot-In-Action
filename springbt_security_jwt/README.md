@@ -350,7 +350,7 @@ public class TestController {
 
 ## 实验验证
 
-- 在文章开头我们即在用户表 `user`中插入了一条用户名为 `codesheep`的记录，并在用户-角色表 `user_roles`中给用户 `codesheep`分配了普通角色（`ROLE_NORMAL`）和管理员角色（`ROLE_ADMIN`）
+- 在文章开头我们即在用户表 `user`中插入了一条用户名为 `carlos`的记录，并在用户-角色表 `user_roles`中给用户 `carlos`分配了普通角色（`ROLE_NORMAL`）和管理员角色（`ROLE_ADMIN`）
 
 - 接下来进行用户登录，并获得后台向用户颁发的JWT Token
 
@@ -371,7 +371,7 @@ public class TestController {
 
 ![访问需要管理员角色的接口OK](https://raw.githubusercontent.com/zouxiangzhong1998/assets/master/Spring-Boot-In-Action/springbt-security-jwt/roleok.png)
 
-接下里我们从用户-角色表里将用户`codesheep`的管理员权限删除掉，再访问接口 `/admin/test`，会发现由于没有权限，访问被拒绝了：
+接下里我们从用户-角色表里将用户`carlos`的管理员权限删除掉，再访问接口 `/admin/test`，会发现由于没有权限，访问被拒绝了：
 
 ![由于权限不够而被拒绝](https://raw.githubusercontent.com/zouxiangzhong1998/assets/master/Spring-Boot-In-Action/springbt-security-jwt/norole.png)
 
