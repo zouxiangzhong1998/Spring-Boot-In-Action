@@ -39,6 +39,10 @@
 
 - [Spring Boot工程集成全局唯一ID生成器 UidGenerator](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_uid_generator)
 
+- [Spring Boot 工程集成全局唯一ID生成器 Vesta](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_vesta)
+
+- [基于Spring Boot实现图片上传/加水印一把梭操作](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_watermark)
+
 ---
 
 # 【持续更新中......】
