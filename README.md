@@ -17,6 +17,12 @@
 
 - [Spring Boot集成 MyBatis和 SQL Server实践](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_mybatis_sqlserver)
 
+- [自制一个 elasticsearch-spring-boot-starter](https://www.rg-software.com/2019/12/07/elasticsearch-spring-boot-starter/)
+
+- [Spring Boot项目利用MyBatis Generator进行数据层代码自动生成](https://www.rg-software.com/2019/12/14/mybatis-generator/)
+
+- [Mybatis-Plus 真好用](https://www.rg-software.com/2019/12/21/springbt-mybatis-plus/)
+
 ---
 
 # 认证和权限相关
