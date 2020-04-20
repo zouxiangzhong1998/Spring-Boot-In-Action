@@ -25,6 +25,12 @@
 
 ---
 
+# 日志相关
+
+- [Spring Boot日志框架实践](https://www.rg-software.com/2019/12/28/SpringBootLog/)
+
+---
+
 # 认证和权限相关
 
 - [基于 Spring Security和 JWT的权限系统设计](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_security_jwt)
