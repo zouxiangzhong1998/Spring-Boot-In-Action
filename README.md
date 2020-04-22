@@ -49,6 +49,14 @@
 
 ---
 
+# 内部机制相关
+
+- [SpringBoot 中 @SpringBootApplication注解背后的三体结构探秘](https://www.rg-software.com/2020/01/11/at-SpringBootApplication-zhujie/)
+
+- [SpringBoot 应用程序启动过程探秘](https://www.rg-software.com/2020/01/18/springboot-startup-process/)
+
+---
+
 # 实战经验相关
 
 - [Spring Boot工程集成全局唯一ID生成器 UidGenerator](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_uid_generator)
