@@ -55,6 +55,8 @@
 
 - [SpringBoot 应用程序启动过程探秘](https://www.rg-software.com/2020/01/18/springboot-startup-process/)
 
+- [如何自制一个Spring Boot Starter并推送到远端公服](https://www.rg-software.com/2020/01/25/springbt-starter/)
+
 ---
 
 # 实战经验相关
@@ -64,6 +66,8 @@
 - [Spring Boot 工程集成全局唯一ID生成器 Vesta](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_vesta)
 
 - [基于Spring Boot实现图片上传/加水印一把梭操作](https://github.com/zouxiangzhong1998/Spring-Boot-In-Action/tree/master/springbt_watermark)
+
+- [Spring Boot优雅编码之：Lombok加持](https://www.rg-software.com/2020/04/23/SpringBootLombok/)
 
 ---
 
